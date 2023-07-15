@@ -2,8 +2,8 @@
 title: Sponsors
 layout:  null
 tab: true
-order: 1
-tags: david_sponsor
+order: 2
+tags: david
 ---
 
 ## Call for DAVID Sponsors
