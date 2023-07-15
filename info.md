@@ -1,6 +1,6 @@
 ### Data Analysis Visualization and Ingestion Domain Information
 * [Incubator Project](#)
-* [Type of Project](#)
+* [Tool Project](#)
 * [Version 0.0.0](#)
 * [Builder](#)
 * [Breaker](#)
