@@ -2,12 +2,13 @@
 
 layout: col-sidebar
 title: OWASP Data Analysis Visualization and Ingestion Domain (DAVID)
-tags: data analytics visualization
+tags: data analysis ingestion visualization david
 level: 2
 type: tool
 pitch: A community project to support the data analysis and visualization needs of open source projects.
 
 ---
+Welcome to the Data Analysis, Visualization, and Ingestion Domain or the DAVID Project. DAVID's purpose is to enable open source projects to tell their ongoing stories with data.
 
 DAVID should provide:
 
